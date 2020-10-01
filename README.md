@@ -16,7 +16,7 @@ a format for loading further analysis and visualization.
 RMTGeneNet is offered under a GPL v2.0 license agreement.  
 
 
-## Installation
+## Installation Process
 For installation instructions see the INSTALL.txt file.
 
 
